@@ -1,0 +1,21 @@
+@media(max-width: 375px) {
+
+    .fundo {
+        width: 300px;
+    }
+
+    .imagem {
+        margin: 25px 100px 12px 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .redes {
+        width: 260px;
+    }
+}
